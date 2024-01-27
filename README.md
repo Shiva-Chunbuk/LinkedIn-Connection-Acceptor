@@ -19,11 +19,20 @@ Follow these steps to install the extension:
 ```
 3.Click on "Load unpacked" and upload the extension folder.
 ```
-## Usage
+<h2>🎯 Usage</h2>
 
+```
 1. Navigate to your LinkedIn page and visit the "My Network" section.
+```
+
+```
 2. Reload the page to activate the extension.
+```
+
+```
+
 3. Click on the extension icon in the Chrome toolbar.
+```
 
 Congratulations! Your LinkedIn connection requests will now be automatically accepted.
 
