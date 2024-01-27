@@ -1,6 +1,6 @@
 # LinkedIn Connection Acceptor
 
-Automate the process of accepting LinkedIn connection requests with the LinkedIn Connection Acceptor Chrome extension. Simplify and streamline your connection management effortlessly.
+Automate accepting LinkedIn connection requests with the LinkedIn Connection Acceptor Chrome extension. Simplify and streamline your connection management effortlessly.
 
 ## Installation
 
@@ -27,4 +27,4 @@ Experience a seamless way to manage your LinkedIn connections!
 
 ---
 
-**Note:** Feel free to customize the content further based on your project's specific details or styling preferences.
+**Thank You :)**
