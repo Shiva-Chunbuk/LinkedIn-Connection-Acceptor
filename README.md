@@ -2,12 +2,23 @@
 
 Automate accepting LinkedIn connection requests with the LinkedIn Connection Acceptor Chrome extension. Simplify and streamline your connection management effortlessly.
 
-## Installation
+<h2>🛠️ Installation Steps:</h2>
 
-1. Open your Chrome browser and go to `chrome://extensions/`.
-2. Enable Developer mode using the toggle switch in the upper right corner.
-3. Click on "Load unpacked" and upload the extension folder.
 
+Follow these steps to install the extension:  
+
+
+```
+1.Open your Chrome browser and go to chrome://extensions/.
+```
+
+```
+2.Turn on Developer mode using the toggle switch in the upper right corner.
+```
+
+```
+3.Click on "Load unpacked" and upload the extension folder.
+```
 ## Usage
 
 1. Navigate to your LinkedIn page and visit the "My Network" section.
